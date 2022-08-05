@@ -4,7 +4,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Homework_Task3 {
+public class Homework_Task3_withoutMethods {
     public static void main(String[] args) throws IOException {
         String path = "src/";
         String fileName = "inputTestBinarySearch";
